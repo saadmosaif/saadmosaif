@@ -1,88 +1,79 @@
-<h1 align="center">Hi 👋, I'm Saad Mosaif</h1>
+<h1 align="center">Saad Mosaif</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer+building+real-world+systems;Full-Stack+Developer+%7C+Spring+Boot+%2B+Next.js;AI+%7C+System+Design+%7C+Product+Thinking;Turning+complex+systems+into+simple+products" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadmosaif&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=800&lines=AI+Engineer;Full-Stack+Developer;Spring+Boot+%7C+Next.js+%7C+AI;Building+scalable+real-world+systems" />
 </p>
 
 <p align="center">
   <a href="mailto:saadmosaif.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saadmosaif.pro%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-saadmosaif.pro%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://sadev.ma">
-    <img src="https://img.shields.io/badge/Portfolio-sadev.ma-111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-sadev.ma-111?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/saadmosaif">
-    <img src="https://img.shields.io/badge/GitHub-saadmosaif-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-saadmosaif-181717?style=flat-square&logo=github" />
   </a>
   <a href="https://ma.linkedin.com/in/saad-mosaif">
-    <img src="https://img.shields.io/badge/LinkedIn-Saad%20Mosaif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Saad%20Mosaif-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
-</p>
+---
+
+## About
+
+AI Engineer and Full-Stack Developer focused on building production systems that combine backend architecture, applied AI, and product thinking.
+
+- Experience with real-world systems (not only prototypes)
+- Strong interest in system design and scalable architectures
+- Based in Morocco
+- Open to full-time opportunities
 
 ---
 
-## 🚀 About Me
+## Work
 
-I’m **Saad Mosaif**, an **AI Engineer** building real-world production systems that combine AI, backend architecture, and product thinking.
+### AI
+- Object detection (YOLO)
+- OCR pipelines (including structured extraction)
+- AI feature integration in applications
+- Conversational and assistant-based interfaces
 
-- 🧠 AI Engineer focused on real systems, not just notebooks  
-- ⚙️ Strong in backend architecture and system design  
-- 🌍 Based in Morocco  
-- 🔎 Open to full-time opportunities  
+### Backend & Systems
+- Spring Boot services
+- API design and business logic
+- Payment and booking systems
+- Real-time messaging (WebSocket, RabbitMQ)
 
----
-
-## 🧠 What I Do
-
-### 🤖 AI Engineering
-- YOLO-based object detection  
-- OCR pipelines (Moroccan CIN extraction)  
-- AI-powered product features  
-- Chat and assistant integrations  
-
-### 🏗️ Full-Stack Development
-- Spring Boot backend systems  
-- Next.js and React frontends  
-- Real-time messaging (WebSocket, RabbitMQ)  
-- Payment, booking, and business logic systems  
-
-### ⚙️ System Design
-- Booking engines and availability logic  
-- Refund and payment flows  
-- Distributed systems (Redis, RabbitMQ)  
-- API architecture and performance optimization  
+### Frontend
+- React / Next.js
+- Integration with backend systems
+- Focus on usability and performance
 
 ---
 
-## 🌟 Featured Work
+## Projects
 
-### 🏡 Koog_B
-- Built core backend logic from scratch  
-- Booking lifecycle engine  
-- Payment and refund system  
-- Real-time chat  
-- Smart pricing and availability management  
+### Koog_B
+Booking platform with:
+- Full booking lifecycle
+- Payment and refund logic
+- Availability and pricing engine
+- Real-time communication features
 
-### 🤖 AI Work
-- Object detection models  
-- OCR extraction pipelines  
-- AI product integrations  
+### AI Work
+- Detection models
+- OCR workflows
+- Product-oriented AI experiments
 
-### 💡 Vision Projects
-- **PolyMind** → multi-agent reasoning  
-- **NeuroGraph** → memory for LLMs  
+### Ongoing Concepts
+- PolyMind (multi-agent reasoning)
+- NeuroGraph (LLM memory systems)
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,ts,js,spring,react,nextjs,nodejs,postgres,redis,docker,rabbitmq,git,github,linux" />
@@ -90,41 +81,35 @@ I’m **Saad Mosaif**, an **AI Engineer** building real-world production systems
 
 ---
 
-## 📈 GitHub Activity
+## Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saadmosaif&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmosaif&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saadmosaif&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmosaif&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saadmosaif&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=saadmosaif&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## Focus
 
-- Scaling AI into production systems  
-- Building real and usable AI products  
-- Improving backend architecture and performance  
-- Shipping impactful systems  
-
----
-
-## 📫 Contact
-
-- 📧 **Email:** saadmosaif.pro@gmail.com  
-- 🌐 **Portfolio:** https://sadev.ma  
-- 💼 **LinkedIn:** https://ma.linkedin.com/in/saad-mosaif  
+- Applied AI in production
+- System design and performance
+- Building reliable, usable products
 
 ---
 
-## ⚡ Philosophy
+## Contact
 
-> I don’t just build features.  
-> I build systems that scale, perform, and solve real problems.
+- Email: saadmosaif.pro@gmail.com  
+- Portfolio: https://sadev.ma  
+- LinkedIn: https://ma.linkedin.com/in/saad-mosaif  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+---
+
+## Note
+
+I focus on building systems that are not only functional, but reliable and scalable.
