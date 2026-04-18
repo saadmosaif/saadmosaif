@@ -10,111 +10,115 @@
 
 <p align="center">
   <a href="mailto:saadmosaif.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saadmosaif.pro%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-saadmosaif.pro%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://sadev.ma">
-    <img src="https://img.shields.io/badge/Portfolio-sadev.ma-111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-sadev.ma-111?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/saadmosaif">
-    <img src="https://img.shields.io/badge/GitHub-saadmosaif-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-saadmosaif-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://ma.linkedin.com/in/saad-mosaif">
-    <img src="https://img.shields.io/badge/LinkedIn-Saad%20Mosaif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Saad%20Mosaif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
 </p>
+
+---
 
 ## 🚀 About Me
 
 I’m **Saad Mosaif**, an **AI Engineer** building real-world production systems that combine AI, backend architecture, and product thinking.
 
-- 🧠 AI Engineer focused on real systems, not just notebooks
-- ⚙️ Strong in backend architecture and system design
-- 🌍 Based in Morocco
-- 🔎 Open to full-time opportunities
+- 🧠 AI Engineer focused on real systems, not just notebooks  
+- ⚙️ Strong in backend architecture and system design  
+- 🌍 Based in Morocco  
+- 🔎 Open to full-time opportunities  
+
+---
 
 ## 🧠 What I Do
 
 ### 🤖 AI Engineering
-- YOLO-based object detection
-- OCR pipelines, including Moroccan CIN extraction
-- AI-powered product features
-- Chat and assistant integrations
+- YOLO-based object detection  
+- OCR pipelines (Moroccan CIN extraction)  
+- AI-powered product features  
+- Chat and assistant integrations  
 
 ### 🏗️ Full-Stack Development
-- Spring Boot backend systems
-- Next.js and React frontends
-- Real-time messaging with WebSocket and RabbitMQ
-- Payment, booking, and business logic systems
+- Spring Boot backend systems  
+- Next.js and React frontends  
+- Real-time messaging (WebSocket, RabbitMQ)  
+- Payment, booking, and business logic systems  
 
 ### ⚙️ System Design
-- Booking engines and availability logic
-- Refund and payment flows
-- Distributed systems with Redis and RabbitMQ
-- API architecture and performance optimization
+- Booking engines and availability logic  
+- Refund and payment flows  
+- Distributed systems (Redis, RabbitMQ)  
+- API architecture and performance optimization  
+
+---
 
 ## 🌟 Featured Work
 
 ### 🏡 Koog_B
-- Built core backend logic from scratch
-- Booking lifecycle engine
-- Payment and refund system
-- Real-time chat
-- Smart pricing and availability management
+- Built core backend logic from scratch  
+- Booking lifecycle engine  
+- Payment and refund system  
+- Real-time chat  
+- Smart pricing and availability management  
 
 ### 🤖 AI Work
-- Object detection models
-- OCR extraction pipelines
-- AI product integrations
+- Object detection models  
+- OCR extraction pipelines  
+- AI product integrations  
 
 ### 💡 Vision Projects
-- **PolyMind** → multi-agent reasoning
-- **NeuroGraph** → memory for LLMs
+- **PolyMind** → multi-agent reasoning  
+- **NeuroGraph** → memory for LLMs  
+
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,spring,react,nextjs,nodejs,postgres,redis,docker,rabbitmq,git,github,linux" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,spring,react,nextjs,nodejs,postgres,redis,docker,rabbitmq,git,github,linux" />
 </p>
+
+---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saadmosaif&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmosaif&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saadmosaif&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmosaif&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saadmosaif&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=saadmosaif&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadmosaif&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadmosaif/saadmosaif/output/snake.svg" alt="Contribution snake animation" />
-</p>
+---
 
 ## 🎯 Current Focus
 
-- Scaling AI into production systems
-- Building real and usable AI products
-- Improving backend architecture and performance
-- Shipping impactful systems
+- Scaling AI into production systems  
+- Building real and usable AI products  
+- Improving backend architecture and performance  
+- Shipping impactful systems  
+
+---
 
 ## 📫 Contact
 
-- 📧 **Email:** saadmosaif.pro@gmail.com
-- 🌐 **Portfolio:** [sadev.ma](https://sadev.ma)
-- 💼 **LinkedIn:** [Saad Mosaif](https://ma.linkedin.com/in/saad-mosaif)
+- 📧 **Email:** saadmosaif.pro@gmail.com  
+- 🌐 **Portfolio:** https://sadev.ma  
+- 💼 **LinkedIn:** https://ma.linkedin.com/in/saad-mosaif  
+
+---
 
 ## ⚡ Philosophy
 
@@ -122,5 +126,5 @@ I’m **Saad Mosaif**, an **AI Engineer** building real-world production systems
 > I build systems that scale, perform, and solve real problems.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
