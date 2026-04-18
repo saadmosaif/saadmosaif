@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Saad Mosaif</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer+building+real-world+products;Full-Stack+Developer+with+a+product+mindset;Spring+Boot+%7C+Next.js+%7C+Python+%7C+AI;Turning+complex+systems+into+simple+usable+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer+building+real-world+systems;Full-Stack+Developer+%7C+Spring+Boot+%2B+Next.js;AI+%7C+System+Design+%7C+Product+Thinking;Turning+complex+systems+into+simple+products" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadmosaif&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
 
 <p align="center">
   <a href="mailto:saadmosaif.pro@gmail.com">
@@ -21,53 +29,58 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+
 ## 🚀 About Me
 
-I’m **Saad Mosaif**, an **AI Engineer** and **Full-Stack Developer** focused on building **production-ready systems** that combine intelligence, performance, and real business value.
+I’m **Saad Mosaif**, an **AI Engineer** building **real-world production systems** combining AI, backend architecture, and product thinking.
 
-- 🧠 AI Engineer working on real-world systems  
-- ⚙️ Strong in backend architecture & system design  
-- 🌍 Based in Morocco  
-- 🔎 Open to **full-time opportunities**
+- 🧠 AI Engineer (real systems, not just notebooks)
+- ⚙️ Backend & system design focused
+- 🌍 Morocco-based
+- 🔎 Open to full-time roles
 
 ---
 
 ## 🧠 What I Do
 
 ### 🤖 AI Engineering
-- Object detection pipelines (**YOLO**)
-- OCR workflows & structured data extraction
+- YOLO-based object detection
+- OCR pipelines (Moroccan CIN)
 - AI-powered product features
-- Chat-driven UX (AI assistants)
+- Chat/assistant integrations
 
-### 🏗️ Full-Stack Development
-- Scalable backends with **Spring Boot**
-- Modern frontends with **React / Next.js**
-- Real-time systems (WebSocket, messaging)
-- Payment, booking, and business logic systems
+### 🏗️ Full-Stack
+- Spring Boot backend systems
+- Next.js / React frontends
+- Real-time messaging (WebSocket, RabbitMQ)
+- Payment & booking logic
 
 ### ⚙️ System Design
 - Booking engines & availability logic
-- Payment/refund flows
-- Distributed architecture (Redis, RabbitMQ)
-- API design & performance optimization
+- Refund/payment flows
+- Distributed systems (Redis, RabbitMQ)
+- API architecture & performance
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Work
 
-### 🏡 Koog
-- Full Backend logic from scratch
+### 🏡 Koog_B
+- Full backend from scratch
+- Booking lifecycle engine
+- Payment + refund system
+- Real-time chat
+- Smart pricing & availability
 
 ### 🤖 AI Work
 - Object detection models
-- OCR pipelines (Moroccan CIN focus)
-- AI assistant integrations
-- Product-oriented AI experimentation
+- OCR extraction pipelines
+- AI product integrations
 
 ### 💡 Vision Projects
-- **PolyMind** → multi-persona reasoning AI    
-- **NeuroGraph** → graph-based LLM memory  
+- **PolyMind** → multi-agent reasoning
+- **NeuroGraph** → memory for LLMs
 
 ---
 
@@ -79,7 +92,7 @@ I’m **Saad Mosaif**, an **AI Engineer** and **Full-Stack Developer** focused o
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=saadmosaif&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -92,24 +105,48 @@ I’m **Saad Mosaif**, an **AI Engineer** and **Full-Stack Developer** focused o
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadmosaif&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadmosaif/saadmosaif/output/snake.svg" alt="snake animation"/>
+</p>
+
+👉 To activate this:
+- I can set it up for you OR
+- You create a GitHub Action (tell me and I’ll guide you in 2 mins)
+
+---
+
 ## 🎯 Current Focus
 
-- Scaling **AI into production systems**
-- Building **real, usable AI products**
-- Improving **architecture & performance**
-- Contributing to impactful engineering teams
+- Scaling AI into production
+- Building real usable AI products
+- Improving backend architecture
+- Shipping impactful systems
 
 ---
 
 ## 📫 Contact
 
-- 📧 **Email:** saadmosaif.pro@gmail.com  
-- 🌐 **Portfolio:** https://sadev.ma  
-- 💼 **LinkedIn:** https://ma.linkedin.com/in/saad-mosaif  
+- 📧 saadmosaif.pro@gmail.com  
+- 🌐 https://sadev.ma  
+- 💼 https://ma.linkedin.com/in/saad-mosaif  
 
 ---
 
 ## ⚡ Philosophy
 
-I don’t just build features —  
-I build systems that **work, scale, and solve real problems**.
+> I don’t just build features.  
+> I build systems that scale, perform, and solve real problems.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
